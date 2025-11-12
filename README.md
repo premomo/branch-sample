@@ -1,1 +1,1 @@
-# Branch Sample on branch mc-practice2
+# Branch Sample on branch main / mc-practice2
